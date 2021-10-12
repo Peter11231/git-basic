@@ -6,3 +6,8 @@ i'm fine thank u. and u?
 i'm fine thank u. and u?
 i'm fine thank u. and u?
 i'm fine thank u. and u?
+
+ans:
+"Add" puts the changes from working directory to staging area
+"commit" puts the changes from staging area to staged area
+"push" upload the changes to repo in github
